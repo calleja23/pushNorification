@@ -1,6 +1,9 @@
 {
   "nativescript": {
-    "id": "com.quiter.qdevices"
+    "id": "com.quiter.qdevices",
+    "tns-ios": {
+      "version": "6.5.0"
+    }
   },
   "description": "NativeScript Application",
   "license": "SEE LICENSE IN <your-license-filename>",
